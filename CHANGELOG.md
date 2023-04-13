@@ -1,3 +1,10 @@
+# [0.102.0-dev.10](https://github.com/revanced/revanced-integrations/compare/v0.102.0-dev.9...v0.102.0-dev.10) (2023-04-13)
+
+
+### Bug Fixes
+
+* **youtube/spoof-signature-verification:** spoof for videos in playlists ([52453b9](https://github.com/revanced/revanced-integrations/commit/52453b921e321e1c5afdb3085c698275509ddeb3))
+
 # [0.102.0-dev.9](https://github.com/revanced/revanced-integrations/compare/v0.102.0-dev.8...v0.102.0-dev.9) (2023-04-12)
 
 
